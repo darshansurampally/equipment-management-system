@@ -1,5 +1,7 @@
 # Equipment Management System
+## Screenshots
 
+![Dashboard](Screenshot%202026-02-28%20132237.png)
 A full-stack web application to manage equipment and their maintenance lifecycle.
 
 **Stack:** React + shadcn/ui + Tailwind CSS | Spring Boot 3 (Java 17) | PostgreSQL 15
